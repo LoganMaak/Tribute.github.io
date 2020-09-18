@@ -1,0 +1,16 @@
+Sojourner (Mar's Rover) Info:
+
+-The rover was the first wheeled vehicle to rove another planet, and was part of the Mars Pathfinder mission.
+-Designed for a mission lasting 7 sols, with possible extension to 30 sols,[3] it was ultimately active for 83 sols (85 Earth days).
+-Sojourner traveled a distance of just over 100 meters (330 ft) by the time communication was lost. 
+- The rover communicated with Earth through the Pathfinder base station, which had its last communication session with Earth at 3:23 a.m. PDT on September 27, 1997.[1][4] This marked the end of the Sojourner mission as well.
+- It was instructed to stay stationary until October 5, 1997 (sol 91) and then drive around the lander.
+-The name of the rover was selected in an essay contest won by Valerie Ambroise, a 12-year-old from U.S. state of Connecticut. It is named for abolitionist and women's rights activist Sojourner Truth
+-Recovered 550 images of the surface of Mars, as well as taking chemical, atmospheric and other measurement
+-Sojourner has solar panels and a non-rechargeable battery, which allowed limited nocturnal operations. Once the batteries were depleted, it could only operate during the day.
+-Although mission managers tried to restore full communications during the following five months, the successful mission was terminated on March 10, 1998.
+-“One of the biggest changes with Mars Pathfinder was that it was the first mission that fully embraced the Internet as a primary way of getting out information to the public,” said O’Donnell (former Jet Propulsion Labs information manager).
+-Now, it seems the rover kept moving, apparently trying to reach its companion. “The rover was programmed so that if it didn’t get commands from the lander, it would assume it somehow got out of radio contact behind a ridge or rock,” geologist Tim Parker of NASA’s Jet Propulsion Laboratory told New Scientist. “So it would drive to the lander as best it could and keep trying to re-establish contact”, circling it as it got close, he says.
+-“I think the simplest explanation is it started to drive back, got about half way, and stopped for whatever reason – it may have thought it got there,” says Parker. “The other possibility is it drove around and around for who knows how long and simply failed at that location.”
+
+-link: https://www.nasa.gov/mission_pages/mars-pathfinder
