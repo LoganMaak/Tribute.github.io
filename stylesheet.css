@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	background-color: #F2A071;
+}
+h1 {
+	background-color: #F2C094;
+	color: #673787;
+	font-size: 50pt;
+	text-align: center;
+	padding: 50px 0px;
+	border: 5px solid #F26457;
+}
+
+div {
+	background-color: #F2C094;
+	color: #916181;
+	border: 5px solid #F26457;
+	margin-top: 100px;
+}
+
+h2 {
+	text-decoration: underline;
+	text-align: center;
+}
+
+p {
+	text-indent: 5%;
+	text-align: left;
+}
+
+img {
+	display: block;
+	width: 100%;
+    height: auto;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
+
+#img-caption{
+	text-align: center;
+}
+
+a{
+	display: block;
+	text-align: right;
+	font-size: 10pt;
+}
